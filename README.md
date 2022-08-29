@@ -1,2 +1,2 @@
-# hello-world
+# maven-project
 new repo
